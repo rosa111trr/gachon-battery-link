@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta property="og:title" content="가천대 이차전지 특성화대학원 재료비 사용 현황" />
+  <meta property="og:description" content="이차전지 특성화대학원 재료비 집행 내역 안내 페이지입니다." />
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gachon_University.svg/1200px-Gachon_University.svg.png" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sites.google.com/gachon.ac.kr/gachon-battery/" />
+  <meta http-equiv="refresh" content="2;url=https://sites.google.com/gachon.ac.kr/gachon-battery/" />
+  <title>가천대 이차전지 특성화대학원 재료비 사용 현황</title>
+</head>
+<body>
+  <p>페이지로 이동 중입니다... <a href="https://sites.google.com/gachon.ac.kr/gachon-battery/">여기를 클릭</a></p>
+</body>
+</html>
